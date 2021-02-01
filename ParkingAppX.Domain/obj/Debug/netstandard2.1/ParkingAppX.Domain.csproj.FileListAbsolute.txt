@@ -1,0 +1,12 @@
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/bin/Debug/netstandard2.1/ParkingAppX.Domain.deps.json
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/bin/Debug/netstandard2.1/ParkingAppX.Domain.dll
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/bin/Debug/netstandard2.1/ParkingAppX.Domain.pdb
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/bin/Debug/netstandard2.1/Mono.Android.dll
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/bin/Debug/netstandard2.1/Mono.Android.pdb
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/obj/Debug/netstandard2.1/ParkingAppX.Domain.csprojAssemblyReference.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/obj/Debug/netstandard2.1/ParkingAppX.Domain.AssemblyInfoInputs.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/obj/Debug/netstandard2.1/ParkingAppX.Domain.AssemblyInfo.cs
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/obj/Debug/netstandard2.1/ParkingAppX.Domain.csproj.CoreCompileInputs.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/obj/Debug/netstandard2.1/ParkingAppX.Domain.csproj.CopyComplete
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/obj/Debug/netstandard2.1/ParkingAppX.Domain.dll
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain/obj/Debug/netstandard2.1/ParkingAppX.Domain.pdb

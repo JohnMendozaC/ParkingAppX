@@ -1,0 +1,4 @@
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain.Test/obj/Release/netcoreapp3.1/ParkingAppX.Domain.Test.csprojAssemblyReference.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain.Test/obj/Release/netcoreapp3.1/ParkingAppX.Domain.Test.AssemblyInfoInputs.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain.Test/obj/Release/netcoreapp3.1/ParkingAppX.Domain.Test.AssemblyInfo.cs
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Domain.Test/obj/Release/netcoreapp3.1/ParkingAppX.Domain.Test.csproj.CoreCompileInputs.cache

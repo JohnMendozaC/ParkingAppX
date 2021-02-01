@@ -1,0 +1,115 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+
+<androidx.constraintlayout.widget.ConstraintLayout
+	xmlns:android="http://schemas.android.com/apk/res/android"
+	xmlns:app="http://schemas.android.com/apk/res-auto"
+	xmlns:tools="http://schemas.android.com/tools"
+	android:layout_width="match_parent"
+	android:layout_height="match_parent">
+
+	<androidx.constraintlayout.widget.ConstraintLayout
+		android:id="@+id/view_out_vehicle"
+		android:layout_width="0dp"
+		android:layout_height="0dp"
+		app:layout_constraintTop_toTopOf="parent"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		android:layout_marginStart="@dimen/margin_normal"
+		android:layout_marginEnd="@dimen/margin_normal">
+
+		<androidx.appcompat.widget.AppCompatImageView
+			android:id="@+id/receipt_image"
+			android:layout_width="@dimen/gallery_header_margin"
+			android:layout_height="@dimen/gallery_header_margin"
+			android:layout_marginTop="@dimen/margin_normal"
+			android:src="@drawable/ic_car"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toTopOf="parent" />
+
+		<androidx.appcompat.widget.AppCompatTextView
+			android:id="@+id/receipt_item_plate"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="@dimen/margin_normal"
+			android:text="AJO90F"
+			android:textAppearance="?attr/textAppearanceListItem"
+			android:textStyle="bold"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/receipt_image"
+			tools:text="AJO90F" />
+
+		<androidx.appcompat.widget.AppCompatTextView
+			android:id="@+id/receipt_item_date"
+			android:layout_width="0dp"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="@dimen/margin_normal"
+			android:drawablePadding="5dp"
+			android:text="24/12/2020 8 AM "
+			android:textAppearance="?attr/textAppearanceListItemSecondary"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@id/receipt_item_plate"
+			tools:text="24/12/2020 8 AM " />
+
+		<androidx.appcompat.widget.AppCompatTextView
+			android:id="@+id/tv_departure_time"
+			android:layout_width="match_parent"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="@dimen/margin_normal"
+			android:ems="10"
+			android:text="@string/departure_time"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/receipt_item_date" />
+
+		<androidx.appcompat.widget.AppCompatTextView
+			android:id="@+id/et_date_out"
+			android:layout_width="match_parent"
+			android:layout_height="@dimen/vehicle_height"
+			android:layout_marginTop="@dimen/margin_normal"
+			android:ems="10"
+			android:gravity="center_vertical"
+			android:hint="@string/enter_date"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/tv_departure_time" />
+
+		<androidx.appcompat.widget.AppCompatTextView
+			android:id="@+id/et_time_out"
+			android:layout_width="match_parent"
+			android:layout_height="@dimen/vehicle_height"
+			android:layout_marginTop="@dimen/margin_normal"
+			android:ems="10"
+			android:gravity="center_vertical"
+			android:hint="@string/enter_time"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/et_date_out" />
+
+		<androidx.appcompat.widget.AppCompatButton
+			android:id="@+id/mb_out_vehicle"
+			android:layout_width="wrap_content"
+			android:layout_height="wrap_content"
+			android:layout_marginTop="@dimen/margin_normal"
+			android:text="@string/pay_parking"
+			app:layout_constraintEnd_toEndOf="parent"
+			app:layout_constraintStart_toStartOf="parent"
+			app:layout_constraintTop_toBottomOf="@+id/et_time_out" />
+
+	</androidx.constraintlayout.widget.ConstraintLayout>
+
+	<include
+		android:id="@+id/loader_out_vehicle"
+		layout="@layout/loader"
+		android:layout_width="match_parent"
+		android:layout_height="match_parent"
+		android:visibility="gone"
+		app:layout_constraintBottom_toBottomOf="parent"
+		app:layout_constraintEnd_toEndOf="parent"
+		app:layout_constraintStart_toStartOf="parent"
+		app:layout_constraintTop_toTopOf="parent" />
+
+</androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+    <string name="app_name">ParkingAppX.Droid</string>
+    <string name="add_vehicle">Ingresar vehiculo al parqueadero</string>
+    <string name="enter_date">Ingrese Fecha…</string>
+    <string name="enter_time">Ingrese hora…</string>
+    <string name="enter_plate">Ingrese placa:</string>
+    <string name="take_out_plate">Take vehicle out of the parking lot</string>
+    <string name="example_plate">AJU95F</string>
+    <string name="car">Carro</string>
+    <string name="motorcycle">Moto</string>
+    <string name="enter_vehicle">Ingresar vehiculo</string>
+    <string name="type_of_vehicle">Tipo de vehiculo:</string>
+    <string name="departure_time">Departure time</string>
+    <string name="pay_parking">Pay parking</string>
+    <string name="check_in_time">Hora de ingreso</string>
+    <string name="entry_cylinder_capacity">Ingresar cilidraje</string>
+    <string name="not_vehicles">No hay vehiculos en el parqueadero</string>
+    <string name="error">¡Ocurrio algo inesperado!</string>
+    <string name="decline">Cancelar</string>
+    <string name="error_data">Faltan datos por llenar.</string>
+    <string name="confirm">Confirmar</string>
+    <string name="info">Info.</string>
+    <string name="error_date">La fecha ingresada no es valida para poder sacar el vehiculo.</string>
+    <string name="amount_to_pay">El valor a pagar por el parqueo es de: %1$s</string>
+    <string name="date_to">Fecha: %1$s</string>
+    <string name="time_to">Hora: %1$s</string>
+    <string name="loading_db">Loading from database…</string>
+    <string name="vehicle_already_in_the_parking_lot">El vehiculo ya se encuentra en el parqueadero.</string>
+    <string name="something_unexpected_happened">Oh oh ocurrio algo inesperado!</string>
+    <string name="there_is_no_space_to_store_the_vehicle">"No hay cupo para guardar el vehiculo."</string>
+    <string name="you_cannot_enter_the_vehicle_since_it_is_not_sunday_or_monday">"No puede ingresar el vehiculo ya que no es domingo o lunes."</string>
+    <string name="the_amount_could_not_be_obtained">No se pudo obtener el monto.</string>
+    <string name="ok">Ok</string>
+
+    <string name="alpha_numeric" translatable="false">ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz0123456789</string>
+    <string name="numeric" translatable="false">0123456789</string>
+     <string name="_150_cc" translatable="false">150 cc</string>
+</resources>

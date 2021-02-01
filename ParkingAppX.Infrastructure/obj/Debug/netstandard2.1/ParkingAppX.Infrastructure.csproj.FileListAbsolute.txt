@@ -1,0 +1,13 @@
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/bin/Debug/netstandard2.1/ParkingAppX.Infrastructure.deps.json
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/bin/Debug/netstandard2.1/ParkingAppX.Infrastructure.dll
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/bin/Debug/netstandard2.1/ParkingAppX.Infrastructure.pdb
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/bin/Debug/netstandard2.1/ParkingAppX.Domain.dll
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/bin/Debug/netstandard2.1/ParkingAppX.Domain.pdb
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.csprojAssemblyReference.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.AssemblyInfoInputs.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.AssemblyInfo.cs
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.csproj.CoreCompileInputs.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.csproj.Fody.CopyLocal.cache
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.csproj.CopyComplete
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.dll
+/Users/john.mendoza/Projects/ParkingAppX/ParkingAppX.Infrastructure/obj/Debug/netstandard2.1/ParkingAppX.Infrastructure.pdb

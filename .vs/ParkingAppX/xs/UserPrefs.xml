@@ -1,0 +1,43 @@
+﻿<Properties StartupConfiguration="{A8987C81-3A9D-45F0-9128-8E8A578D8B7B}|Default">
+  <MonoDevelop.Ide.ItemProperties.Tests.ParkingAppX.Domain.Test PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.ParkingAppX.Droid PreferredExecutionTarget="Android.AGT4C19816011633" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="ParkingAppX.Domain.Test/ParkingAppX.Droid.Uitest/Tests.cs">
+    <Files>
+      <File FileName="ParkingAppX.Domain.Test/ParkingAppX.Droid.Uitest/Tests.cs" Line="4" Column="23" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="ParkingAppX" expanded="True">
+            <Node name="Tests" expanded="True">
+              <Node name="ParkingAppX.Domain.Test" expanded="True">
+                <Node name="ParkingAppX.Droid.Uitest" expanded="True">
+                  <Node name="Tests.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="ParkingAppX.Droid.Uitest" expanded="True" />
+            </Node>
+            <Node name="ParkingAppX.Droid" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="ParkingAppX" expanded="True" selected="True">
+            <Node name="Tests" expanded="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.ItemProperties.Tests.ParkingAppX.Droid.Uitest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <DisabledProjects>
+    <String>ParkingAppX.Domain.Test/ParkingAppX.Droid.UITest/ParkingAppX.Droid.UITest.csproj</String>
+  </DisabledProjects>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Release" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>

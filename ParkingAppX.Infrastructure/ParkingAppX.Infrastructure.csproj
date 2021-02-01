@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <PackageReference Include="Realm" Version="5.1.2" />
+        <PackageReference Include="AutoMapper" Version="10.1.1" />
+        <PackageReference Include="Realm.Fody" Version="5.1.2">
+            <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+            <PrivateAssets>all</PrivateAssets>
+        </PackageReference>
+        <PackageReference Include="Realms.Utils" Version="1.0.1" />
+        <PackageReference Include="Realm.KeyValueStorage" Version="1.0.0" />
+    </ItemGroup>
+    <ItemGroup>
+        <Folder Include="Repositories\" />
+        <Folder Include="Entities\" />
+        <Folder Include="Anticorruption\" />
+        <Folder Include="Exceptions\" />
+        <Folder Include="Daos\" />
+    </ItemGroup>
+    <ItemGroup>
+        <ProjectReference Include="..\ParkingAppX.Domain\ParkingAppX.Domain.csproj" />
+    </ItemGroup>
+</Project>

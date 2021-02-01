@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project Sdk="Microsoft.NET.Sdk">
+    <PropertyGroup>
+        <TargetFramework>netstandard2.1</TargetFramework>
+    </PropertyGroup>
+    <ItemGroup>
+        <Folder Include="Repositories\" />
+        <Folder Include="Aggregates\" />
+        <Folder Include="Entities\" />
+        <Folder Include="Enums\" />
+        <Folder Include="Utils\" />
+        <Folder Include="Exceptions\" />
+        <Folder Include="Services\" />
+    </ItemGroup>
+    <ItemGroup>
+        <Reference Include="Mono.Android">
+            <HintPath>..\..\..\..\..\Library\Frameworks\Xamarin.Android.framework\Versions\11.1.0.26\lib\xamarin.android\xbuild-frameworks\MonoAndroid\v9.0\Mono.Android.dll</HintPath>
+        </Reference>
+    </ItemGroup>
+</Project>
